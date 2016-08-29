@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![profile-picture](/assets/profpic.JPG){:class="img-responsive"}
+<img src="/assets/profpic.JPG" width="300">
 
 Computer Science major at The University of Texas at Austin.
 
