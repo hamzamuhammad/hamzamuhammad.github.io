@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Need for Speed"
+date:   2016-09-25
+categories: jekyll update
+---
+
+<img src="/assets/profpic.JPG" width="300">
+
+What did you do this past week?
+
+- Finished the Netflix project pretty last minute. Not going to lie, I panicked a bit towards the end but we thankfully finished the lab with a few hours to spare (we got clutched pretty hard). However, there was a HUGE issue with TravisCI which failed to alert us of some possible errors in the testing harnass. Apparently only one build was being run at a time (for the whole class), so we got an error 2 hours past the deadline. I expect there to be some slack for this error!
+
+What's in your way?
+
+- Algo test on Wednesday. I took a look at the material and it really isn't that much (compared to a class like 439!) and it seems more conceptual than straight up grinding. I think we can cram it in 2 days max. Whoever is reading this, cramming is NOT good and you should actually learn the material. However, life is unpredictable as always, and Harambe is a painful reminder of that fact.
+
+What will you do next week?
+
+- Finish a bunch of iOS homework, grind harder than a grindstone for Algo, and then relax for a few days before the subsequent grind for OOP. Since there is almost no 'traditional' material for OOP online, I am thoroughly confused as to what the methodology for studying for the test will be. Maybe we'll have to just go in blind, ain't no telling. 
+
+
+OOP has been making me think long and hard about Java vs. C++. It's akin to a battle of two superstars, such as Batman and Superman or Lebron James and Steph Curry. Each language has a distinct flavor, style, and ultimately utility. We were taught from the good ol' days of 312 how to use Java to tackle most problems. However, during Collatz I saw the first glimpse of how C++ utterly rekt Java in terms of speed.
+
+I presume that Java is taught first in order to teach the algorithmic thought process. There is no real advantage of confusing students with topics like memory management, pointers, or performance since these skills should add upon a base knowledge of formulating algorithms. Therefore, Java has easy syntax, clean object management, and intuitive debugging that makes problem solving easier.
+
+However, Java is quite some maginitudes slower than C++. Now, this may not matter for certain things (I'm looking at you Python) but increasingly in the day and age of mobile development and web apps speed is a necessity. Therefore, taking away the simplicity of Java makes the code faster but harder to use. For example, during the Netflix lab I had this really annoying error regarding parsing numbers into strings and vice versa. Now, in Java, you have something like Integer.parseInt() that easily converts a String object to an int. However, in C++, if I want to say convert an int to a certain precision, that is a pain. In Java it's just another method/object you can search up (I think its DecimalFormat or something). In C++, you have to some jank voodoo magic where you use a buffer and 2 other methods to change the string of the number. Then, turn it back into a number. Java probably does this internally, but it's more hassle at the cost of speed.
+
+As we go further on, we'll probably see more examples of how these two languages differ and knowing all the nuances and big picture ideas (such as different properties of objects) can allow someone to decide which language best suits the task.
+
+
