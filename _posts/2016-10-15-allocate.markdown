@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Allocate"
+date:   2016-10-15
+categories: jekyll update
+---
+
+<img src="/assets/profpic.JPG" width="300">
+
+What did you do this past week?
+
+- Started working on the lab. It looked pretty easy at first, but as I got more into it many issues arose, especially problems with pointers. As long as we keep chugging away, I don't see any problem with finishing this lab. The tests should hopefully confirm whether our code works or not.
+
+What's in your way?
+
+-  Have to continue lifting weights (getting back into shape) as well as finishing other homework that is due. We also need to try to get the lab done soon, because me and my partner both have plans during the week the lab is due. Piazza has been a real helping hand when it comes to this lab, so shoutout to all my peeps posting answers.
+
+What will you do next week?
+
+- Start making various tests for the lab to check the integrity of the code. Also, finish up algo hmwk and see whether there is any other work to complete. Lastly, go over various notes and homeworks for classes in order to catch up.
+
+Tip of the week
+
+- Get your flu shot! You never know if you may get sick and you won't be able to do any OOP projects :(
+
+Learning how allocators work on a lower level can really help someone understand how to implement various systems. For example, understanding how a heap works can let somebody model other software that may need some level of memory management.
+
+Furthermore, having a strong grasp of pointers and manipulating memory addresses allows a programmer to make powerful and efficient code. Instead of copying huge arrays, one can simply pass in a memory reference. Also, manipulating data is as easy as passing a pointer.
+
+Safety is also an important fact. With great power comes great responsibility (quote from Uncle Ben in Spiderman 2). Forcing variables to be constant as well as pointers prevents other programmers from tampering with your code. Although it is trickier to understand and implement correctly, it is a very worthwhile endeavor. 
+
+I am excited to learn more about how high-level containers are implemented in C++ as well as the pros and cons of certain design principles. By learning this, I could make my own custom containers and therefore write better code.
