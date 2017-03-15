@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Big Guy"
+date:   2017-3-12
+categories: jekyll update
+---
+
+<img src="/assets/profpic.JPG" width="300">
+
+**What did you do this past week?**
+
+- Finished the security test, project, and homework. Also got an offer from Visa for a software engineer internship here in Austin, so that's great news (all of the grinding paid off after all).
+
+**What's in your way?**
+
+- Have a presentation in master of margarita (class is not actually about margaritas), and the SWE project is due the week after spring break as well. I also have to get myself together and get back into shape, more social events, etc.
+
+**What will you do next week?**
+
+- Wait for my shipment of gainz supplies (creatine, whey protein, 200mg caffeine pills) and start lifting again. Me and a fellow SWEdent plan on getting ripped in the upcoming months. My goal is to be a big guy. 
+
+**Tip of the week**
+
+- If you've been keeping up with my blog posts, you must have read that I said after I get a job offer I'm going to be slacking off and doing nothing. It's important to keep your promises, because that's all we got in this world: our integrity.
+
+**Experience of the class**
+
+We laid out what each team member plans on doing for the project, and although we have not worked on it a lot so far, the structure and layout of the project seems to be fleshing out by itself. For example, a few members had experience with JavaScript and UML, so they chose their respective areas of experience. This seems like a much smarter idea than just assigning roles arbitrarily. Furthermore, we decided that certain portions can be worked on concurrently, so when we DO start working, I expect things to move fairly quickly.
+
+I'm becoming more and more impressed by Python in terms of how flexible and robust of a language it is. When we did that exercise in class with decorators and closures, the simplicity made certain actions in the language very simple. I expect to use such tools at some point during the project, so a clean and concise way of accomplishing this reminds me of the flexibility of Python.
+
+Now, with the project coming up, me and a team member were assigned the 'higher level' design aspects of how the database, classes, models, etc. should be laid out. It seems easy on the surface, but there is a lot of thought as to how things should be designed, because this fundamental bedrock will influence the rest of the project. If the initial design is utter trash, then we will struggle later on. 
+
+The class is a good mix of upper and lower level knowledge, with the project teaching us aspects of real software development, and the lectures teaching us cool stuff about Python and how to properly use a language to accomplish common tasks.
+
