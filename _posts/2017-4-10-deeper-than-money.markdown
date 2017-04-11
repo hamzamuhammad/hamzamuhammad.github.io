@@ -21,7 +21,7 @@ categories: jekyll update
 
 **Tip of the week**
 
-- Your first instinct is usually correct.
+- My doctor told me I apparently have a vitamin D deficiency from spending too much time indoors, so make sure to go outside in between long periods of coding to soak up that sun!
 
 **Experience of the class**
 
